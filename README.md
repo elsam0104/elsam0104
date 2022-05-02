@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm YeEun Oh (Elsam) 👋👋
+<p>
+  🔭 I’m currently working on GGM(Gyeonggi Game Meister) High School.
+  🌱 I’m currently learning C++,C#,Unity
 
+</p>
 <!--
 **elsam0104/elsam0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
