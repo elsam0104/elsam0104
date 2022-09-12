@@ -10,12 +10,9 @@
   
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104)](https://github.com/elsam0104/github-readme-stats)
-<br>
-<br>
 
 ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true)
-[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/elsam0104)
+[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&theme=dark&bg_color=604A7A&hide_border=true&layout=compact)](https://github.com/elsam0104)
 
 
 
