@@ -1,25 +1,33 @@
 ### Hi, I'm **YeEun Oh** (Elsam) 👋👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20YeEun%20Oh%20(Elsam)%20👋&animation=fadeIn&fontSize=50&fontColor=314200)
 <p>
 
   🎮  I hope to be a **Game Client Developer**.
 
-  🔭 I’m currently working on GGM(Gyeonggi Game Meister) High School.
+  🔭 I’m currently working on **GGM**(Gyeonggi Game Meister) High School.
   
-  🌱 I’m currently learning C++,C#,Unity
+  🌱 I’m currently learning...
+  
+<img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 </p>
-<img src="https://img.shields.io/badge/Unity-5D5D5D?style=for-the-badge&logo=Unity&logoColor=white" height = "30">
-<img src="https://img.shields.io/badge/C%23-93CC8D?style=for-the-badge&logo=CSharp&logoColor=white" height = "30">
-<img src="https://img.shields.io/badge/C++-8EC7D0?style=for-the-badge&logo=c%2B%2B&&logoColor=white" height = "30">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104)](https://github.com/elsam0104/github-readme-stats)
+<br>
+<br>
 
-<br>
-<br>
-![elsam0104's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true)
-[![elsam0104's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/elsam0104)
+![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true)
+[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/elsam0104)
+
 
 
 📧 Contact on **l3elsam@gmail.com!**
-my portfolio 
-<a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Portfolio_3766AB?style=flat-square&logo=simpleiconsUnity&logoColor=white&link=http://ggm.gondr.net/user/profile/29"/></a>&nbsp
+<br>
+**😄 my portfolio**
+<br>
+<a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"></a>
+<br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You%20for%20Coming!&animation=twinkling&fontSize=50&fontColor=314200)
+
+
 <!--
 **elsam0104/elsam0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
