@@ -8,6 +8,10 @@
   🌱 I’m currently learning...
   
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+
+   🔧 I use...
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 </p>
 
 ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&theme=dracula&bg_color=DEG,5F0C0E,4C1A22)
@@ -18,7 +22,7 @@
 ### 😄 About Me
 
 <a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Portfolio-222324?style=for-the-badge"></a>
-<a href="https://energetic-tumble-4ad.notion.site/789fbe425f9c4165930ad4c90dffbe1f"><img src="https://img.shields.io/badge/My%20Notion-FECC00?style=for-the-badge&logo=Notion&logoColor=black"></a>
+<a href="https://energetic-tumble-4ad.notion.site/789fbe425f9c4165930ad4c90dffbe1f"><img src="https://img.shields.io/badge/Notion-FECC00?style=for-the-badge&logo=Notion&logoColor=black"></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKHRMTQcttWNCSPbsJzQXxcVxDkTPJqzFvvTfmpFQHWbhtHzQWJngLMHVvMMkRjzqNlGwjq"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <br>
 
