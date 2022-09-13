@@ -1,7 +1,7 @@
 ### Hi, I'm **YeEun Oh** (Elsam) 👋👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20YeEun%20Oh%20(Elsam)%20👋&animation=fadeIn&fontSize=50&fontColor=314200)
 <p>
-
+  
   🎮  I hope to be a **Game Client Developer**.
 
   🔭 I’m currently working on **GGM**(Gyeonggi Game Meister) High School.
@@ -16,12 +16,13 @@
 
 
 
+### 😄 my portfolio
+
+<a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Portfolio-222324?style=for-the-badge"></a>
+<br>
+
 📧 Contact on **l3elsam@gmail.com!**
-<br>
-##😄 my portfolio
-<br>
-<a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"></a>
-<br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You%20for%20Coming!&animation=twinkling&fontSize=50&fontColor=314200)
 
 
