@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 </p>
 
-![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&theme=dracula&bg_color=DEG,5F0C0E,4C1A22) [![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&theme=dracula&bg_color=DEG,4C1A22,A58788&hide_border=true&layout=compact)](https://github.com/elsam0104)
+![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&theme=dracula&bg_color=DEG,5F0C0E,4C1A22)[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&theme=dracula&bg_color=DEG,4C1A22,A58788&hide_border=true&layout=compact)](https://github.com/elsam0104)
 
 
 
