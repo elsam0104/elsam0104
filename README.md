@@ -24,6 +24,7 @@
 <a href="http://ggm.gondr.net/user/profile/29"><img src="https://img.shields.io/badge/Portfolio-222324?style=for-the-badge"></a>
 <a href="https://energetic-tumble-4ad.notion.site/789fbe425f9c4165930ad4c90dffbe1f"><img src="https://img.shields.io/badge/Notion-FECC00?style=for-the-badge&logo=Notion&logoColor=black"></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox?compose=CllgCKCHVNGfzJRWfGkGdvMVvxLZSxXmmxBMgDdxWPlHZDMXQFNjpsmMtqKwjXLghTLSDnsBBcg"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://ohsol.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F4F4EB?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 <br>
 
 📧 Contact on **OhSolDev@gmail.com!**
