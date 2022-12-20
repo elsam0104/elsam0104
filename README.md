@@ -27,7 +27,7 @@
 <a href="https://ohsol.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F4F4EB?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 <br>
 
-📧 Contact on **OhSolDev@gmail.com!**
+📧 **Contact on OhSolDev@gmail.com!**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You%20for%20Coming!&animation=twinkling&fontSize=50&fontColor=314200)
 
