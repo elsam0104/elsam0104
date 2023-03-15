@@ -10,14 +10,13 @@
   🌱 I’m currently learning...
   
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elsam)](https://solved.ac/elsam/)
+  <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elsam)](https://solved.ac/elsam/)  ![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&theme=radical&layout=compact)
 
    🔧 I use...
   
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Fork-C8FFFF?style=for-the-badge"> <img src="https://img.shields.io/badge/TortoiseGit-B9E2FA?style=for-the-badge"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&bg_color=DEG,FFE146,FFB900&hide_border=true&layout=compact)](https://github.com/elsam0104)  ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&bg_color=DEG,FDF5DC,FDF5E6)
-
+![elsam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=elsam0104&theme=radical)![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&theme=radical)
 
 
 ### 😄 About Me
