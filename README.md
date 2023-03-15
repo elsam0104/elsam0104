@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20YeEun%20Oh%20(Elsam)%20👋&animation=fadeIn&fontSize=50&fontColor=314200)
 <p>
   
@@ -7,15 +9,14 @@
   
   🌱 I’m currently learning...
   
-<img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elsam)](https://solved.ac/elsam/)
 
    🔧 I use...
   
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Fork-C8FFFF?style=for-the-badge"> <img src="https://img.shields.io/badge/TortoiseGit-B9E2FA?style=for-the-badge"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&bg_color=DEG,FDF5DC,FDF5E6)[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&bg_color=DEG,FFE146,FFB900&hide_border=true&layout=compact)](https://github.com/elsam0104)
+[![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&show_icons=true?&bg_color=DEG,FFE146,FFB900&hide_border=true&layout=compact)](https://github.com/elsam0104)  ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&show_icons=true&bg_color=DEG,FDF5DC,FDF5E6)
 
 
 
@@ -31,7 +32,8 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You%20for%20Coming!&animation=twinkling&fontSize=50&fontColor=314200)
 
-
+<div>
+  
 <!--
 **elsam0104/elsam0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
