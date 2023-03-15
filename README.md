@@ -16,8 +16,10 @@
   
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Fork-C8FFFF?style=for-the-badge"> <img src="https://img.shields.io/badge/TortoiseGit-B9E2FA?style=for-the-badge"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![elsam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=elsam0104&theme=radical)![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&theme=radical)
-
+![elsam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=elsam0104&theme=radical)
+<!--
+  ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&theme=radical)
+-->
 
 ### 😄 About Me
 
