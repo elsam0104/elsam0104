@@ -5,7 +5,7 @@
   
   🎮  I hope to be a **Game Client Developer**   
   
-  🔭 I’m currently working on **GGM**(Gyeonggi Game Meister) High School.
+  🔭 I’m currently working on [Madsoft](https://madsoft.me/)
   
   🌱 I’m currently learning...
   
