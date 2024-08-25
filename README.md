@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20YeEun%20Oh%20(Elsam)%20👋&animation=fadeIn&fontSize=50&fontColor=314200)
 <p>
   
-  🎮  I hope to be a **Game Client Developer**   
+  🎮  I am a **Game Client Developer** in Korea.   
   
-  🔭 I’m currently working on [Madsoft](https://madsoft.me/)
+  🔭 I've been working at [**Madsoft**](https://madsoft.me/) since November 2023.
   
   🌱 I’m currently learning...
   
