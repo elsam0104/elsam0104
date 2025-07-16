@@ -21,10 +21,11 @@
 <br>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"> 
 
+<!--
+
 <br>
 <img src="https://myreadme.vercel.app/api/embed/elsam0104?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 <br>
-<!--
   ![elsam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=elsam0104&theme=radical)
   ![elsam's github stats](https://github-readme-stats.vercel.app/api?username=elsam0104&theme=radical)
 -->
