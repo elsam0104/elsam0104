@@ -10,7 +10,7 @@
   🌱 I’m currently learning...
   
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elsam)](https://solved.ac/elsam/)  ![elsam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsam0104&theme=shadow_blue&layout=compact)
+  <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elsam)](https://solved.ac/elsam/)
 
    🔧 I use...
 
