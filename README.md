@@ -4,8 +4,7 @@
 <p>
   
   🎮  I am a **Game Client Developer** in Korea.   
-  
-  🔭 I've been working at [**Madsoft**](https://madsoft.me/) since November 2023.
+  🔭  I worked for [**Madsoft**](https://madsoft.me/) from January 2024 to May 2026.
   
   🌱 I’m currently learning...
   
